@@ -8,3 +8,5 @@
 - Copy Lists ❌
 - Join Lists ❌
 - List methods ❌
+- Set Joins ❌
+- Dictionary ❌
